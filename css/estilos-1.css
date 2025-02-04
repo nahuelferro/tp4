@@ -50,6 +50,8 @@ h2  {
 main{background-color: #BC105C;
     margin-left: 7%;
     margin-right: 7%;
+    padding-bottom: 1%;
+    border-radius: 0.5%;
     }
 
 p{
@@ -63,11 +65,16 @@ button{
     border-radius: 6%;
     padding-top: 10px;
     padding-bottom: 10px;
-    align-items: center;
+    display: flex;
+    justify-content: center;
     }
 
 footer{
     background-color: #E96093;
     text-align: center;
-
+    margin-left: 7%;
+    margin-right: 7%;
+    padding-top: 1px;
+    
+    border-radius: 2%;
     }
