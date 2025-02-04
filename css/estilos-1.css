@@ -1,0 +1,73 @@
+body {background-color: #E01264;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+img {background-color: #BC0F5C;
+    width: 100%;
+    height: auto;
+    
+}
+
+h1 {color: #FFFFFF;
+    background-color: #BC0F5C;
+    border-right-color: #FFFFFF;
+    border-left-color: #FFFFFF;
+    border-right: solid;
+    border-left: solid;
+    border-width: 5px;
+    margin-left: 7%;
+    margin-right: 7%;
+    text-align: center;
+    font-size: 60px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+h2  {
+    color: #FFFFFF;
+    padding-top: 30px;
+    padding-bottom: 5px;
+    padding-left: 0.75%;
+    }
+
+.titulos {color: #9C0037;
+    text-align: right;
+    border-bottom-style: dotted;
+    }
+
+.fondo_juego {
+            margin-left: 1%;
+            margin-right: 1%;
+            background-color: white;
+            border-radius: 1%;
+            padding: 0.75%;
+            margin-bottom: 1%;
+
+    }
+
+main{background-color: #BC105C;
+    margin-left: 7%;
+    margin-right: 7%;
+    }
+
+p{
+    font-size: 12px;
+}
+
+button{
+    border: 0;
+    color: white;
+    background-color: #2C8F20 ;
+    border-radius: 6%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    align-items: center;
+    }
+
+footer{
+    background-color: #E96093;
+    text-align: center;
+
+    }
