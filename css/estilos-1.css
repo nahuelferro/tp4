@@ -7,7 +7,6 @@ body {background-color: #E01264;
 img {background-color: #BC0F5C;
     width: 100%;
     height: auto;
-    
 }
 
 h1 {color: #FFFFFF;
@@ -37,21 +36,21 @@ h2  {
     border-bottom-style: dotted;
     }
 
-.fondo_juego {
+.fondo_juego1, .fondo_juego2 {
             margin-left: 1%;
             margin-right: 1%;
+            margin-top: 1%;
             background-color: white;
-            border-radius: 1%;
+            border-radius: 10px;
             padding: 0.75%;
             margin-bottom: 1%;
-
     }
 
 main{background-color: #BC105C;
     margin-left: 7%;
     margin-right: 7%;
     padding-bottom: 1%;
-    border-radius: 0.5%;
+    border-radius: 10px;
     }
 
 p{
@@ -62,7 +61,7 @@ button{
     border: 0;
     color: white;
     background-color: #2C8F20 ;
-    border-radius: 6%;
+    border-radius: 10px;
     padding-top: 10px;
     padding-bottom: 10px;
     display: flex;
@@ -72,10 +71,8 @@ button{
 
 button:hover{
         background-color: #E96093;
-
-        
-
     }
+    
 footer{
     background-color: #E96093;
     text-align: center;
@@ -83,6 +80,7 @@ footer{
     margin-right: 7%;
     padding-top: 10px;
     padding-bottom: 10px;
-    border-radius: 2%;
-    margin-bottom: 10px;
+    margin-bottom: 1px;
+    margin-top: 1%;
+    border-radius: 10px;
     }
